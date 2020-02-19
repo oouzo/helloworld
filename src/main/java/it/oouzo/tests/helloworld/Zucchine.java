@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package it.home.test.helloworld;
+package it.oouzo.tests.helloworld;
 
 import java.util.Objects;
 

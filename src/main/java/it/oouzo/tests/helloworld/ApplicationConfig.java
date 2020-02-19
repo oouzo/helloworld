@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package it.home.test.helloworld;
+package it.oouzo.tests.helloworld;
 
 import java.util.Set;
 import javax.ws.rs.core.Application;
@@ -29,7 +29,7 @@ public class ApplicationConfig extends Application {
      * If required, comment out calling this method in getClasses().
      */
     private void addRestResourceClasses(Set<Class<?>> resources) {
-        resources.add(it.home.test.helloworld.GenericResource.class);
+        resources.add(it.oouzo.tests.helloworld.GenericResource.class);
     }
     
 }
